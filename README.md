@@ -35,7 +35,7 @@ pip install requests
 ## Directory Structure
 -----------------
 ```
-OptiNet/
+cst338/
 ├── app.py
 ├── ports.txt
 ├── static/
